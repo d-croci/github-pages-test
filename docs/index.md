@@ -16,3 +16,4 @@ Get started by ...
   - When installing NoPython, you are recommended to check all checkboxes related to dependencies.
 
 ## ciao test daniele
+test numero 2
